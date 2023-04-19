@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shark</string>
+    <string name="find_shark">FIND\nSHARK</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Password confirm</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="login_failed">"Invalid Email or Password"</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="go_back">Go back</string>
+    <string name="passwords_are_not_the_same">Passwords are not the same</string>
+    <string name="empty_field">empty field</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="country_name">Country name</string>
+    <string name="locality">Locality</string>
+    <string name="address">Address</string>
+    <string name="please_turn_on_location">Please turn on location</string>
+    <string name="feed_title"> --- Get current location  ---</string>
+    <string name="action_find">Enter your current location</string>
+</resources>

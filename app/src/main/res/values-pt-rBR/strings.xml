@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUBARÃO</string>
+    <string name="find_shark">LOCALIZA\nTUBARÃO</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_confirm_password">Confirmar senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_up">Criar conta</string>
+    <string name="login_failed">"E-mail ou Senha Inválidos"</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="go_back">Voltar</string>
+    <string name="passwords_are_not_the_same">As senhas não são iguais</string>
+    <string name="empty_field">campo vazio</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="country_name">Nome do país</string>
+    <string name="locality">Localidade</string>
+    <string name="address">Endereço</string>
+    <string name="please_turn_on_location">Ative a localização</string>
+    <string name="feed_title">--- Pegar a localização atual ---</string>
+    <string name="action_find">Informe sua localizaçãoa atual</string>
+</resources>
